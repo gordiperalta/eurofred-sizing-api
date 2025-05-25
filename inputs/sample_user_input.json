@@ -1,0 +1,40 @@
+{
+  "address": "Barcelona, Spain",
+  "construction_year": 2005,
+  "building_type": "Detached home",
+  "square_meters": 150,
+  "floor_count": 2,
+  "orientation": "South",
+  "people_count": 4,
+  "isolation_change": "no",
+  "bedroom_info": [
+    {
+      "code": "floor_1_room_1",
+      "area": 20,
+      "indoor_type": "wall",
+      "dist_out_to_in": 4,
+      "dist_drain": 1
+    },
+    {
+      "code": "floor_1_room_2",
+      "area": 15,
+      "indoor_type": "wall",
+      "dist_out_to_in": 5,
+      "dist_drain": 1
+    },
+    {
+      "code": "floor_2_room_1",
+      "area": 25,
+      "indoor_type": "floor",
+      "dist_out_to_in": 6,
+      "dist_drain": 2
+    },
+    {
+      "code": "floor_2_room_2",
+      "area": 30,
+      "indoor_type": "floor",
+      "dist_out_to_in": 7,
+      "dist_drain": 2
+    }
+  ]
+}
